@@ -1,5 +1,9 @@
 # Video-to-ASCII-Converters (THIS WORKS BEST WITH 1080p VIDEOS)
 
+Its easy to read and edit the code in [VS CODE](https://code.visualstudio.com)
+
+You need [Python](https://www.python.org/downloads/) installed to PATH for this
+
  - HOW IT WORKS
 
 Convert any Video into an [ASCII REPLAY](https://youtu.be/Y6P1TP3rEvA)
